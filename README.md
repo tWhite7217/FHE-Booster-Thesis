@@ -14,3 +14,5 @@ Cite as follows:
   note    = "Available at \url{https://github.com/tWhite7217/FHE-Booster-Thesis}"
 }
 ```
+
+The repo hosting FHE-Booster itself is [here](https://github.com/tWhite7217/FHE-Booster).
