@@ -8,7 +8,7 @@ Cite as follows:
 ```
 @mastersthesis{White_FHE_Thesis_2023,
   author  = "Tommy White",
-  title   = "Scheduling General Purpose Encrypted Computation on Multicore Platform",
+  title   = "Scheduling General Purpose Encrypted Computation on Multicore Platforms",
   school  = "University of Delaware",
   year    = "2023",
   note    = "Available at \url{https://github.com/tWhite7217/FHE-Booster-Thesis}"
